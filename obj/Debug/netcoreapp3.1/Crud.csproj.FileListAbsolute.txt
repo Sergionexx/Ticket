@@ -1,0 +1,355 @@
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.exe
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.csprojAssemblyReference.cache
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.AssemblyInfoInputs.cache
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.AssemblyInfo.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorAssemblyInfo.cache
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorAssemblyInfo.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.TagHelpers.input.cache
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.TagHelpers.output.cache
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorCoreGenerate.cache
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorTargetAssemblyInfo.cache
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.RazorTargetAssemblyInfo.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\staticwebassets\Crud.StaticWebAssets.Manifest.cache
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\staticwebassets\Crud.StaticWebAssets.xml
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.csproj.CopyComplete
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.deps.json
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.runtimeconfig.json
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.runtimeconfig.dev.json
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.pdb
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.Views.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Crud.Views.pdb
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.Views.pdb
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.pdb
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.genruntimeconfig.cache
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.csproj.CoreCompileInputs.cache
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Crud.MvcApplicationPartsAssemblyInfo.cache
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Create.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Delete.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Details.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Edit.cshtml.g.cs
+D:\Documentos D\ViusalStudioProjects\Crud\Crud\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Index.cshtml.g.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.csprojAssemblyReference.cache
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.AssemblyInfoInputs.cache
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.AssemblyInfo.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.csproj.CoreCompileInputs.cache
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.RazorAssemblyInfo.cache
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.RazorAssemblyInfo.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.pdb
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Crud.exe
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Crud.deps.json
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Crud.runtimeconfig.json
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Crud.runtimeconfig.dev.json
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Crud.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Crud.pdb
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Crud.Views.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Crud.Views.pdb
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.TagHelpers.input.cache
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.TagHelpers.output.cache
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.RazorCoreGenerate.cache
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Create.cshtml.g.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Delete.cshtml.g.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Details.cshtml.g.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Edit.cshtml.g.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Razor\Views\Usuarios\Index.cshtml.g.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.RazorTargetAssemblyInfo.cache
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.RazorTargetAssemblyInfo.cs
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.Views.pdb
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.csproj.CopyComplete
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\staticwebassets\Crud.StaticWebAssets.Manifest.cache
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\staticwebassets\Crud.StaticWebAssets.xml
+C:\Users\sergi\Desktop\Ticket-Atenci-n-al-cliente-main\Ticket-Atenci-n-al-cliente-main\obj\Debug\netcoreapp3.1\Crud.genruntimeconfig.cache
